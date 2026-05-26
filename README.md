@@ -12,5 +12,5 @@ Duplicate Prevention: Prevents the same credential title from being issued twice
 Open Remix IDE.\
 Create a file named ChainProof.sol and paste the code.\
 Deploy the contract using the "Deploy & Run Transactions" tab.\
-Use the functions to issue credentials and test the accessGranted gate.\
+Use the functions to issue credentials and test the accessGranted gate.
 
